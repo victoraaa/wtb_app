@@ -1,0 +1,52 @@
+ <div class="container">
+  	<div class="span-24">
+      <h1> Who's The Better? </h1>
+  	</div>
+
+  	<div class="span-4">
+  		<h2>Ranking</h2>
+    
+    <table>
+      <tr>
+        <th>Nome do Filme</th>
+        <th>Pontuacao</th>
+      </tr>
+      
+      <% @dispute.itens.order('rating DESC').limit(15).each do |item| %>
+      <tr>
+        <td><%= item.name %></td>
+        <td><%= item.rating %></td>
+      </tr>
+      <% end %>
+    </table>
+  	</div>
+  	<div class="span-16">
+  		<% if @dispute!=nil%>
+    <table>
+      <tr>
+        <h1>Qual é o melhor?</h1>
+      </tr>
+      
+      <tr>
+        <td><h3><%= @itens_for_battle.first.name %></h3</td>
+        <td><h3><%= @itens_for_battle.second.name %></h3></td>
+      </tr>
+      <tr>
+        <td>
+          <%=link_to image_tag(@itens_for_battle.first.image.url), { :action => 'vote',
+          :id1 => @itens_for_battle.first, :id2 => @itens_for_battle.second, :dispute => @dispute } %> 
+        </td>
+        <td> 
+          <%=link_to image_tag("movies/#{@itens_for_battle.second.image_path}.jpg"), { :action => 'vote',
+          :id1 => @itens_for_battle.second, :id2 => @itens_for_battle.first, :dispute => @dispute }  %> 
+        </td>
+      </tr>
+          
+    </table>
+    <% end%>
+  </div>    
+	
+  	<div class="span-24">
+  		The footer
+  	</div>
+  </div>

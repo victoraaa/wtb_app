@@ -1,0 +1,247 @@
+1312931595
+AddAttachmentsImageToItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	class AddAttachmentsImageToItem 
+AddColumnDisputeIdItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	class AddColumnDisputeIdItem 
+Application	C:/Sites/rails_projects/wtb_app/config/application.rb	  class Application 
+ApplicationController	C:/Sites/rails_projects/wtb_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/rails_projects/wtb_app/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/rails_projects/wtb_app/test/performance/browsing_test.rb	class BrowsingTest 
+CreateDisputes	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022926_create_disputes.rb	class CreateDisputes 
+CreateItens	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022428_create_itens.rb	class CreateItens 
+Dispute	C:/Sites/rails_projects/wtb_app/app/models/dispute.rb	class Dispute 
+DisputeTest	C:/Sites/rails_projects/wtb_app/test/unit/dispute_test.rb	class DisputeTest 
+DisputesController	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	class DisputesController 
+DisputesControllerTest	C:/Sites/rails_projects/wtb_app/test/functional/disputes_controller_test.rb	class DisputesControllerTest 
+DisputesHelper	C:/Sites/rails_projects/wtb_app/app/helpers/disputes_helper.rb	module DisputesHelper
+DisputesHelperTest	C:/Sites/rails_projects/wtb_app/test/unit/helpers/disputes_helper_test.rb	class DisputesHelperTest 
+Install	C:/Sites/rails_projects/wtb_app/install/lib/install.rb	module Install
+Install	C:/Sites/rails_projects/wtb_app/install/lib/install/version.rb	module Install
+Item	C:/Sites/rails_projects/wtb_app/app/models/item.rb	class Item 
+ItemTest	C:/Sites/rails_projects/wtb_app/test/unit/item_test.rb	class ItemTest 
+ItensController	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	class ItensController 
+ItensControllerTest	C:/Sites/rails_projects/wtb_app/test/functional/itens_controller_test.rb	class ItensControllerTest 
+ItensHelper	C:/Sites/rails_projects/wtb_app/app/helpers/itens_helper.rb	module ItensHelper
+ItensHelperTest	C:/Sites/rails_projects/wtb_app/test/unit/helpers/itens_helper_test.rb	class ItensHelperTest 
+PagesController	C:/Sites/rails_projects/wtb_app/app/controllers/pages_controller.rb	class PagesController 
+PagesControllerTest	C:/Sites/rails_projects/wtb_app/test/functional/pages_controller_test.rb	class PagesControllerTest 
+PagesHelper	C:/Sites/rails_projects/wtb_app/app/helpers/pages_helper.rb	module PagesHelper
+PagesHelperTest	C:/Sites/rails_projects/wtb_app/test/unit/helpers/pages_helper_test.rb	class PagesHelperTest 
+Str	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function Str(key, holder, stack)
+TestCase	C:/Sites/rails_projects/wtb_app/test/test_helper.rb	class ActiveSupport::TestCase
+Type	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function Type(o)
+VERSION	C:/Sites/rails_projects/wtb_app/install/lib/install/version.rb	  VERSION =
+WtbApp	C:/Sites/rails_projects/wtb_app/config/application.rb	module WtbApp
+about	C:/Sites/rails_projects/wtb_app/app/controllers/pages_controller.rb	  def about
+abs	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function abs()
+absolutize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function absolutize(element)
+addMethods	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function addMethods(source)
+addText	C:/Sites/rails_projects/wtb_app/public/javascripts/controls.js	function addText(mode, condition)
+add_fields	C:/Sites/rails_projects/wtb_app/public/javascripts/application.js	function add_fields(link,content)
+all	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function all(iterator, context)
+any	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function any(iterator, context)
+argumentNames	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function argumentNames()
+bind	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function bind(context)
+bindAsEventListener	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function bindAsEventListener(context)
+blank	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function blank()
+camelize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function camelize()
+capitalize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function capitalize()
+ceil	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function ceil()
+checkDeficiency	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function checkDeficiency(tagName)
+checkReadyState	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function checkReadyState()
+clear	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function clear()
+clone	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function clone()
+clone	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function clone()
+clone	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function clone(object)
+collect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function collect(iterator, context)
+compact	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function compact()
+concat	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function concat()
+copy	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
+create	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def create
+create	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def create
+create	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function create()
+cssNameFor	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function cssNameFor(key)
+cumulativeOffset	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function cumulativeOffset(element)
+cumulativeScrollOffset	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function cumulativeScrollOffset(element)
+curry	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function curry()
+dasherize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function dasherize()
+defer	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function defer()
+define	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function define(D)
+delay	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function delay(timeout)
+destroy	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def destroy
+destroy	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def destroy
+detect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function detect(iterator, context)
+dirCheck	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function dirCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dirNodeCheck	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function dirNodeCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )
+dispatch	C:/Sites/rails_projects/wtb_app/public/javascripts/effects.js	function dispatch(effect, eventName)
+down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022428_create_itens.rb	  def self.down
+down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022926_create_disputes.rb	  def self.down
+down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	  def self.down
+down	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	  def self.down
+each	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function each(iterator)
+each	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function each(iterator, context)
+eachSlice	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function eachSlice(number, iterator, context)
+edit	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def edit
+edit	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def edit
+element	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function element(event)
+empty	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function empty()
+endsWith	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function endsWith(pattern)
+escapeHTML	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function escapeHTML()
+evalJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function evalJSON(sanitize)
+evalScripts	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function evalScripts()
+extend	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function extend(destination, source)
+extend	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function extend(tagName)
+extendElementWith	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function extendElementWith(element, methods)
+extendElements	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function extendElements(elements)
+extractScripts	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function extractScripts()
+fallback	C:/Sites/rails_projects/wtb_app/public/javascripts/controls.js	function fallback(name, expr)
+find	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function find(elements, expression, index)
+findAll	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function findAll(iterator, context)
+findDOMClass	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function findDOMClass(tagName)
+findElement	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function findElement(event, expression)
+fire	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function fire(element, eventName, memo, bubble)
+fireContentLoadedEvent	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function fireContentLoadedEvent()
+first	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function first()
+flatten	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function flatten()
+floor	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function floor()
+get	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function get(key)
+getDimensions	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function getDimensions(element)
+getLayout	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function getLayout(element, preCompute)
+getOffsetParent	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function getOffsetParent(element)
+getPixelValue	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function getPixelValue(value, property)
+getRootElement	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function getRootElement()
+grep	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function grep(filter, iterator, context)
+gsub	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
+handleMethod	C:/Sites/rails_projects/wtb_app/public/javascripts/rails.js	function handleMethod(element)
+handleRemote	C:/Sites/rails_projects/wtb_app/public/javascripts/rails.js	function handleRemote(element)
+home	C:/Sites/rails_projects/wtb_app/app/controllers/pages_controller.rb	  def home
+inGroupsOf	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
+include	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function include(object)
+include	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function include(pattern)
+include	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function include(value)
+index	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def index
+index	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def index
+index	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function index(value)
+indexOf	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function indexOf(item, i)
+initialize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function initialize(object)
+initialize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function initialize(start, end, exclusive)
+inject	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inject(memo, iterator, context)
+inspect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inspect()
+inspect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inspect()
+inspect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inspect()
+inspect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inspect(object)
+inspect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function inspect(useDoubleQuotes)
+interpolate	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function interpolate(object, pattern)
+intersect	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function intersect(array)
+invoke	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function invoke(method)
+isArray	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isArray(object)
+isBody	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isBody(element)
+isDetached	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isDetached(element)
+isDisplayed	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isDisplayed(element)
+isElement	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isElement(object)
+isEventSupported	C:/Sites/rails_projects/wtb_app/public/javascripts/rails.js	function isEventSupported(eventName)
+isForm	C:/Sites/rails_projects/wtb_app/public/javascripts/rails.js	function isForm(element)
+isFunction	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isFunction(object)
+isHash	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isHash(object)
+isInput	C:/Sites/rails_projects/wtb_app/public/javascripts/rails.js	function isInput(element)
+isJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isJSON()
+isLeftClick	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isLeftClick(event)   { return _isButton(event, 0)
+isMiddleClick	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isMiddleClick(event) { return _isButton(event, 1)
+isNumber	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isNumber(object)
+isRightClick	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isRightClick(event)  { return _isButton(event, 2)
+isString	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isString(object)
+isUndefined	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function isUndefined(object)
+iter	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function iter(name)
+keys	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function keys()
+keys	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function keys(object)
+klass	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function klass()
+last	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function last()
+lastIndexOf	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function lastIndexOf(item, i)
+link_to_add_fields	C:/Sites/rails_projects/wtb_app/app/helpers/application_helper.rb	  def link_to_add_fields(dispute, f)
+match	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function match()
+match	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function match(element, selector)
+max	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function max(iterator, context)
+measure	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function measure(element, property)
+merge	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function merge(array, args)
+merge	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function merge(object)
+methodize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function methodize()
+min	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function min(iterator, context)
+new	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def new
+new	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def new
+observe	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function observe(element, eventName, handler)
+on	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function on(element, eventName, selector, callback)
+parseColor	C:/Sites/rails_projects/wtb_app/public/javascripts/effects.js	function parseColor(color)
+parseJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function parseJSON()
+partition	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function partition(iterator, context)
+pluck	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function pluck(property)
+pointer	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function pointer(event)
+pointerX	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function pointerX(event)
+pointerY	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function pointerY(event)
+pollDoScroll	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function pollDoScroll()
+positionedOffset	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function positionedOffset(element)
+prepareReplacement	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function prepareReplacement(replacement)
+purgeElement	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function purgeElement(element)
+reject	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function reject(iterator, context)
+relativize	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function relativize(element)
+remove_fields	C:/Sites/rails_projects/wtb_app/public/javascripts/application.js	function remove_fields(link)
+reverse	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function reverse(inline)
+round	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function round()
+scan	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function scan(pattern, iterator)
+select	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function select()
+select	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function select(selector, scope)
+set	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function set(key, value)
+show	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def show
+show	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def show
+size	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function size()
+size	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function size()
+sortBy	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function sortBy(iterator, context)
+startsWith	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function startsWith(pattern)
+stop	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stop(event)
+stopObserving	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stopObserving(element, eventName, handler)
+stringify	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stringify(object)
+strip	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function strip()
+stripAlpha	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stripAlpha(filter)
+stripScripts	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stripScripts()
+stripTags	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function stripTags()
+sub	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function sub(pattern, replacement, count)
+subclass	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function subclass()
+succ	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function succ()
+succ	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function succ()
+test_homepage	C:/Sites/rails_projects/wtb_app/test/performance/browsing_test.rb	  def test_homepage
+times	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function times(count)
+times	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function times(iterator, context)
+toArray	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toArray()
+toArray	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toArray()
+toCSSPixels	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toCSSPixels(number)
+toColorPart	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toColorPart()
+toDecimal	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toDecimal(pctString)
+toHTML	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toHTML(object)
+toISOString	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toISOString()
+toJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toJSON()
+toJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toJSON(value)
+toObject	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toObject()
+toPaddedString	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toPaddedString(length, radix)
+toQueryPair	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toQueryPair(key, value)
+toQueryParams	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toQueryParams(separator)
+toQueryString	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toQueryString()
+toQueryString	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function toQueryString(object)
+truncate	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function truncate(length, truncation)
+underscore	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function underscore()
+unescapeHTML	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function unescapeHTML()
+unfilterJSON	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function unfilterJSON(filter)
+uniq	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function uniq(sorted)
+unset	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function unset(key)
+up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022428_create_itens.rb	  def self.up
+up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022926_create_disputes.rb	  def self.up
+up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	  def self.up
+up	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	  def self.up
+update	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def update
+update	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def update
+update	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function update(array, args)
+update	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function update(element, content)
+update	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function update(object)
+values	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function values()
+values	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function values(object)
+viewportOffset	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function viewportOffset(forElement)
+vote	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def vote
+without	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function without()
+wrap	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function wrap(wrapper)
+zip	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function zip()

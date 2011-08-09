@@ -1,0 +1,25 @@
+<%= form_for @dispute , :html => {:multipart => true} do |f| %>
+  <% if @dispute.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@dispute.errors.count, "error") %> prohibited this dispute from being saved:</h2>
+
+      <ul>
+      <% @dispute.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %><br/>
+    <% f.fields_for :itens do |builder| %>
+      <%= render 'itens', :builder => builder, :dispute_id => @dispute %>
+    <% end %>
+    <br/> <%= link_to_add_fields @dispute, f %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

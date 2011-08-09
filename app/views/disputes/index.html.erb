@@ -1,0 +1,23 @@
+<h1>Listing disputes</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @disputes.each do |dispute| %>
+  <tr>
+    <td><%= dispute.name %></td>
+    <td><%= link_to 'Show', dispute %></td>
+    <td><%= link_to 'Edit', edit_dispute_path(dispute) %></td>
+    <td><%= link_to 'Destroy', dispute, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Dispute', new_dispute_path %>

@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @item.name %>
+</p>
+
+<p>
+  <b>Rating:</b>
+  <%= @item.rating %>
+</p>
+
+<p>
+  <b>Image path:</b>
+  <%= @item.image_path %>
+</p>
+
+
+<%= link_to 'Edit', edit_dispute_item_path(params[:dispute_id],@item) %> |
+<%= link_to 'Back', dispute_itens_path(params[:dispute_id]) %>

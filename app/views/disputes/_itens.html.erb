@@ -1,0 +1,13 @@
+      <%= builder.hidden_field :dispute_id, :value => :dispute_id  %>
+      <%= builder.hidden_field :rating, :value => 0 %>
+      <p class="fields">
+      <br/><%= builder.label :name, "Nome do Item" %>
+      <br/><%= builder.text_field :name %>
+      <br/><%= builder.label :image_path, "Imagem" %>
+      <br/><%= builder.text_field :image_path %>
+      <br/><%= builder.file_field :image %><br />      
+      
+      <%= builder.hidden_field :_destroy %>
+      <br/> <%= link_to_function "remove", "remove_fields(this)" %>
+      <br/>
+      <p/>
