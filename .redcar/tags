@@ -1,4 +1,4 @@
-1312991030
+1312991252
 AddAttachmentsImageToItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	class AddAttachmentsImageToItem 
 AddColumnDisputeIdItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	class AddColumnDisputeIdItem 
 Application	C:/Sites/rails_projects/wtb_app/config/application.rb	  class Application 
