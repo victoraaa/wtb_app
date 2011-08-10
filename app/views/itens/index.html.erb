@@ -4,7 +4,6 @@
   <tr>
     <th>Name</th>
     <th>Rating</th>
-    <th>Image path</th>
     <th></th>
     <th></th>
     <th></th>
@@ -14,7 +13,6 @@
   <tr>
     <td><%= item.name %></td>
     <td><%= item.rating %></td>
-    <td><%= item.image_path %></td>
     <td><%= link_to 'Show', dispute_item_path(params[:dispute_id],item) %></td>
     <td><%= link_to 'Edit', edit_dispute_item_path(params[:dispute_id],item) %></td>
     <td><%= link_to 'Destroy', dispute_item_path(params[:dispute_id],item), :confirm => 'Are you sure?', :method => :delete %></td>

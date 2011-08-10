@@ -2,11 +2,12 @@ class Item < ActiveRecord::Base
   belongs_to :dispute
   
   validates :dispute_id, :presence => true
+  validates :name, :presence => true
   
   #paperclip
   if ENV["RAILS_ENV"]=='production'
     
-  has_attached_file :image, :styles => {:mini => "300X300>" },
+  has_attached_file :image, :styles => {:small => "300X300>" },
 
   #Para fazer upload na web
   :storage => :s3,

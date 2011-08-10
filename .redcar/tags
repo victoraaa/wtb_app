@@ -1,4 +1,4 @@
-1312931640
+1312991030
 AddAttachmentsImageToItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	class AddAttachmentsImageToItem 
 AddColumnDisputeIdItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	class AddColumnDisputeIdItem 
 Application	C:/Sites/rails_projects/wtb_app/config/application.rb	  class Application 
@@ -25,6 +25,7 @@ PagesController	C:/Sites/rails_projects/wtb_app/app/controllers/pages_controller
 PagesControllerTest	C:/Sites/rails_projects/wtb_app/test/functional/pages_controller_test.rb	class PagesControllerTest 
 PagesHelper	C:/Sites/rails_projects/wtb_app/app/helpers/pages_helper.rb	module PagesHelper
 PagesHelperTest	C:/Sites/rails_projects/wtb_app/test/unit/helpers/pages_helper_test.rb	class PagesHelperTest 
+RemoveImagePathFromItem	C:/Sites/rails_projects/wtb_app/db/migrate/20110809232555_remove_image_path_from_item.rb	class RemoveImagePathFromItem 
 Str	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 TestCase	C:/Sites/rails_projects/wtb_app/test/test_helper.rb	class ActiveSupport::TestCase
 Type	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function Type(o)
@@ -76,6 +77,7 @@ down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022428_create_itens.rb	 
 down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022926_create_disputes.rb	  def self.down
 down	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	  def self.down
 down	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	  def self.down
+down	C:/Sites/rails_projects/wtb_app/db/migrate/20110809232555_remove_image_path_from_item.rb	  def self.down
 each	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function each(iterator)
 each	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function each(iterator, context)
 eachSlice	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function eachSlice(number, iterator, context)
@@ -233,6 +235,7 @@ up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022428_create_itens.rb	  d
 up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730022926_create_disputes.rb	  def self.up
 up	C:/Sites/rails_projects/wtb_app/db/migrate/20110730031633_add_column_dispute_id_item.rb	  def self.up
 up	C:/Sites/rails_projects/wtb_app/db/migrate/20110809182059_add_attachments_image_to_item.rb	  def self.up
+up	C:/Sites/rails_projects/wtb_app/db/migrate/20110809232555_remove_image_path_from_item.rb	  def self.up
 update	C:/Sites/rails_projects/wtb_app/app/controllers/disputes_controller.rb	  def update
 update	C:/Sites/rails_projects/wtb_app/app/controllers/itens_controller.rb	  def update
 update	C:/Sites/rails_projects/wtb_app/public/javascripts/prototype.js	function update(array, args)
