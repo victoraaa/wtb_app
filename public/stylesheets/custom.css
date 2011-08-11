@@ -1,8 +1,23 @@
 .span-24 {
+  margin-top:20px;
   text-align:center;
+
 }
 
 .span-4 {
   position:last;
   background-color:#DDF;
 }
+
+.span-7 {
+  text-align:center;
+}
+
+.box-vitinho {
+  text-align:center;
+  width:1000px;
+  padding:10px;
+  border:5px solid gray;
+  margin:10px;
+}
+

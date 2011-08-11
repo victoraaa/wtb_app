@@ -1,10 +1,11 @@
  <div class="container">
   	<div class="span-24">
-      <h1> Who's The Better? </h1>
+      <h1> <h1 style="text-align:center;"><%= @dispute.name %></h1> </h1>
   	</div>
 
   	<div class="span-4">
-  		<h2>Ranking</h2>
+      <h2>Ranking</h2>
+      
     
     <table>
       <tr>
@@ -24,7 +25,7 @@
   		<% if @dispute!=nil%>
     <table>
       <tr>
-        <h1>Qual é o melhor?</h1>
+        
       </tr>
       
       <tr>
@@ -58,6 +59,7 @@
   </div>    
 	
   	<div class="span-24">
-  		The footer
+  		<div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js#appId=248126771877217&amp;xfbml=1"></script><fb:like href= <%= request.fullpath %> send="false" width="450" show_faces="true" action="like" font=""></fb:like>
   	</div>
   </div>
